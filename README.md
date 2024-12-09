@@ -9,4 +9,6 @@ Domänen haben eine wichtige Rolle im Datenraum. Die Daten entstehen in den Dom�
 
 Das Engagement der Domänen ist daher essentiell für einen Datenraum der Wertschöpfung generiert. Domänen stellen die Daten bereit, verantworten die Qualität und engagieren sich in der föderierten Steuerung des Datenraums.
 
-In diesem Raum wollen wir über Fragen und Themen zu den Domänen wie z.B. Use Cases, Veröffentlichung der Datenprodukte und deren Qualitätssicherung sprechen.
+In diesem Raum wollen wir über Fragen und Themen zu den Domänen wie z.B. Use Cases, Veröffentlichung der Datenprodukte und deren Qualitätssischerung sprechen.
+
+[Diskussionen](https://github.com/SwissHDS/domain-aspects/discussions) oder [Anregungen und Feedback](https://github.com/SwissHDS/domain-aspects/issues) 
