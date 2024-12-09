@@ -3,7 +3,7 @@ _Diskussionen zu Themen der Dömänen, in denen die Daten entstehen und welche d
 
 ## Worum geht es
 
-Daten sind ein Wirtschaftsgut mit einem instrinsischen Wert. Dies gilt insbesondere für Daten, welche im Gesundheitswesen im Rahmen von Untersuchungen und Behandlungen anfallen. In den Daten stecken Werte, die zur Verbesserung der Versorgung und der Optimierung der Prozesse genutzt werden können. Soweit wird wohl jeder zustimmen. Aber wie können wir den Wert nutzen und die Daten im Datenraum für andere Domänen nutzbar machen? 
+Daten sind ein Wirtschaftsgut mit einem intrinsischem Wert. Dies gilt insbesondere für Daten, welche im Gesundheitswesen im Rahmen von Untersuchungen und Behandlungen anfallen. In den Daten stecken Werte, die zur Verbesserung der Versorgung und der Optimierung der Prozesse genutzt werden können. Soweit wird wohl jeder zustimmen. Aber wie können wir den Wert nutzen und die Daten im Datenraum für andere Domänen nutzbar machen? 
 
 Domänen haben eine wichtige Rolle im Datenraum. Die Daten entstehen in den Domänen im Rahmen der spezifischen Use Cases und Prozesse in den Domänen. Im Datenraum nehmen die Domänen die Rolle des Datenowner ein. Sie erfassen die Daten und stellen sie den anderen Domänen zur Nutzung im Datenraum bereit. 
 
